@@ -1,0 +1,12 @@
+streamlit
+langchain-chroma==0.1.2
+langchain-ollama
+langchain-text-splitters
+langchain-core==0.2.38
+langchain==0.2.15
+langchain-community==0.2.15
+chromadb==0.4.15
+posthog==3.1.0
+tokenizers==0.13.3
+PyMuPDF
+pysqlite3-binary
