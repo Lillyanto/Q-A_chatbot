@@ -1,0 +1,28 @@
+# Virtual environment
+
+venv/
+
+.env/
+
+__pycache__/
+
+*.pyc
+ 
+# ChromaDB
+
+chroma_db_streamlit/
+ 
+# Extracted images
+
+extracted_images/
+ 
+# Env variables
+
+.env
+ 
+# OS
+
+.DS_Store
+
+Thumbs.db
+ 
